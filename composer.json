@@ -2,6 +2,7 @@
   "name": "mariodevv/criteria-from-url-converter",
   "description": "Convert from Request Uri to Criteria",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "MarioDevv\\CriteriaFromUrlConverter\\": "src/"
