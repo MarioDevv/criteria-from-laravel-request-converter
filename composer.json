@@ -1,0 +1,25 @@
+{
+  "name": "mariodevv/criteria-from-url-converter",
+  "description": "Convert from Request Uri to Criteria",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "MarioDevv\\CriteriaFromUrlConverter\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MarioDevv\\CriteriaFromUrlConverter\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^8.2",
+    "codelytv/criteria": "^0.1.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  },
+  "scripts": {
+    "test": "./vendor/bin/phpunit tests"
+  }
+}
