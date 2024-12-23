@@ -5,12 +5,12 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "MarioDevv\\CriteriaFromUrlConverter\\": "src/"
+      "MarioDevv\\Criteria\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "MarioDevv\\CriteriaFromUrlConverter\\Tests\\": "tests/"
+      "MarioDevv\\Criteria\\Tests\\": "tests/"
     }
   },
   "require": {

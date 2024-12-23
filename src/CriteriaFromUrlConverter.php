@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MarioDevv\CriteriaFromUrlConverter;
+namespace MarioDevv\Criteria;
 
 use CodelyTv\Criteria\Criteria;
 use CodelyTv\Criteria\InvalidCriteria;

@@ -1,9 +1,9 @@
 <?php
 
-namespace MarioDevv\CriteriaFromUrlConverter\Tests;
+namespace MarioDevv\Criteria\Tests;
 
 use CodelyTv\Criteria\Criteria;
-use MarioDevv\CriteriaFromUrlConverter\CriteriaFromUrlConverter;
+use MarioDevv\Criteria\CriteriaFromUrlConverter;
 use PHPUnit\Framework\TestCase;
 
 class CriteriaFromUrlConverterTest extends TestCase
